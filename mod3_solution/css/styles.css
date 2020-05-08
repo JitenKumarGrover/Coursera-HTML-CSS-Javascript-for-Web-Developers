@@ -10,8 +10,7 @@ h1 {
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+    background-image: url("background.jpg"); 
 
 }
 
@@ -124,7 +123,6 @@ section {
 .nav-brand {
   color: #FFFFFF;
   font-size: 1.5em;
-  opacity: .8;
 }
 
 #nav-list {
